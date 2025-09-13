@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and runtime
+*.log
+
+# Secrets / env
+.env
+.env.* 
+secrets.json
+private_key.txt
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
+*.zip
+
+# Byte-compiled / caches
+*.egg
+*.whl
+
+# Railway / platform files
+.railway/
+
+# Misc
+node_modules/
